@@ -322,7 +322,7 @@ ul li{
     padding-right: 120px;
     padding-left: 120px;
     padding-bottom: 120px;
-    background: url(/assets/contact-bk.jpg) no-repeat;
+    background: url(../assets/contact-bk.jpg) no-repeat;
     width: 100%;
     height: 73vh;
 }
